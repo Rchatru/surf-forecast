@@ -30,3 +30,4 @@ You probably track open ocean weather systems using satellite photos, models, an
 * Wekeo Youtube [Channel](https://www.youtube.com/channel/UCvS3VvKmMKs1M2ZkmQPyRlw/featured)
 * Wekeo [Github](https://github.com/wekeo)
 * [Copernicus Marine Service](https://marine.copernicus.eu/)
+* [My Ocean Pro Viewer](https://myocean.marine.copernicus.eu/)
