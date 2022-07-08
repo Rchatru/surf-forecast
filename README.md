@@ -11,5 +11,9 @@ First content, a telegram bot that sends daily tide times.
 
 
 
+***
+
+For more info see: [References](/References/README.md)
 
 *Under construction* - more to come soon.
+
