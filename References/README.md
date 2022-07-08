@@ -15,6 +15,18 @@ You probably track open ocean weather systems using satellite photos, models, an
 #### 1.4. [Video](https://www.youtube.com/user/Stormsurf001/videos) surf forecast explained
    
 
-### 2. National Data Buoy Center
+### 2. Puertos del Estado
+
+[Data](https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx) Puertos del Estado (Spanish State Ports).
+
+### 3. National Data Buoy Center
 
 [National Data Buoy Center](https://www.ndbc.noaa.gov/obs.shtml), The premier source of meteorogical and oceanographic measurements for the marine enviroment.
+
+### 4. Copernicus & Wekeo
+
+[WEkEO](https://www.wekeo.eu/) is the EU Copernicus (and Sentinel) DIAS reference service for environmental data, virtual processing environments and skilled user support.
+
+* Wekeo Youtube [Channel](https://www.youtube.com/channel/UCvS3VvKmMKs1M2ZkmQPyRlw/featured)
+* Wekeo [Github](https://github.com/wekeo)
+* [Copernicus Marine Service](https://marine.copernicus.eu/)
